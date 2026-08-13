@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "description": "The official source code of OpenSees is available on Github! See the repository!\nThe OpenSeesPy package is available on PyPi. Install the package!",
+      "items": [],
+      "title": "Source Code"
+    },
+    {
+      "description": "OpenSees plugins for existing welcomed text editors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSEESAutoComplete",
+          "description": "An auto-complete plugin to make writing OpenSees file easier on Notepad++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-04-02T08:41:49Z",
+            "owner": "Hanlin-Dong",
+            "repo": "OpenSEESAutoComplete",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCode Language Support",
+          "description": "An extension that adds rich language support for OpenSees flavoured TCL language in Visual Studio Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-12-18T07:10:41Z",
+            "owner": "jamesmaguire",
+            "repo": "vscode-language-opensees",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom Language Package",
+          "description": "An Atom text editor package that provides syntax highlighting and auto-completion for OpenSees tcl scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-12-04T22:12:51Z",
+            "owner": "jamesmaguire",
+            "repo": "language-opensees",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Editor Plugin"
+    },
+    {
+      "description": "Simple scripts that help visualise OpenSees models or results.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python package",
+          "description": "A visualization framework for creating high quality and responsive renderings using glTF technology with support for both Python and Tcl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T20:52:45Z",
+            "owner": "STAIRlab",
+            "repo": "veux",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSees Model View",
+          "description": "A Python package that can be used to visualise your OpenSees model as the tcl file is written.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-25T02:32:55Z",
+            "owner": "jamesmaguire",
+            "repo": "opensees-model-view",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSees 3D Visualisation",
+          "description": "A Python script that reads OpenSees simulation input and output files to create a 3D visualisation of your displaced model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2021-06-19T09:12:03Z",
+            "owner": "jamesmaguire",
+            "repo": "opensees-3d-visualisation",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSees Model Plotter Matlab",
+          "description": "A Matlab-based plotter for models developed in OpenSees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-11-19T08:26:07Z",
+            "owner": "gerardjoreilly",
+            "repo": "OpenSees-Model-Plotter-Matlab",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Visualiser"
+    },
+    {
+      "description": "Application Programming Interfaces that call OpenSees.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSeesAPI",
+          "description": "A Python package that is used to write OpenSees tcl scripts quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-26T18:54:16Z",
+            "owner": "nassermarafi",
+            "repo": "OpenSeesAPI",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSeesAPI.m",
+          "description": "An OpenSees API for MATLAB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2020-05-11T22:01:11Z",
+            "owner": "andrewdsen",
+            "repo": "OpenSeesAPI.m",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-OpenSees",
+          "description": "A Node.js bind for OpenSees. (Not maintained, just for inspiration)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2013-05-01T04:49:41Z",
+            "owner": "lge88",
+            "repo": "node-opensees",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Script Generation via Templates",
+          "description": "An inspiring example of using Python template engine Jinjia2 to generate massive tcl scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-11-09T21:21:34Z",
+            "owner": "ucgmsim",
+            "repo": "OpenSees_script-generation",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "If you are interested in contributing, please read the contribution guidelines. You can either contribute to the list, or contribute to the tcl codes. Your efforts are highly appreciated by the authors.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, Hanlin Dong has waived all copyright and related or neighboring rights to awesome-opensees. This work is published from: Mainland China.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:06.086Z",
+    "original_repository": "Hanlin-Dong/awesome-opensees",
+    "original_repository_sha": "ff45ebbaecbef503848eefb6810c94deaad17094",
+    "enhanced_repository": "enhansome/enhansome-opensees",
+    "enhanced_repository_description": null,
+    "title": "Awesome-OpenSees with stars"
+  }
+}
