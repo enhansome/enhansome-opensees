@@ -6,7 +6,7 @@
 
 Hi, this is a curated list of OpenSees resources. You may find something awesome that gives you a better experience using or developing OpenSees. Learn more on [OpenSees official wiki website](http://opensees.berkeley.edu/wiki/index.php/Main_Page).
 
-This awesome-list project is inspired by the project [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,922 | 🐛 100 | 📅 2026-06-30. However, as OpenSees itself is rapidly growing, most of the related resources are not so mature. Therefore, the resources listed here may suffer from some limitations, or still under development but inspiring. The author doesn't take any responsibility for the accuracy of anything listed. You should judge whether to use them by yourself.
+This awesome-list project is inspired by the project [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,305 | 🐛 100 | 📅 2026-06-30. However, as OpenSees itself is rapidly growing, most of the related resources are not so mature. Therefore, the resources listed here may suffer from some limitations, or still under development but inspiring. The author doesn't take any responsibility for the accuracy of anything listed. You should judge whether to use them by yourself.
 
 Contributing to the list is encouraged. Please read the [contribution guidelines](contributing.md) before making pull requests. If you have problems on contributing, please click on the `PRs Welcome` badge above.
 
@@ -149,4 +149,4 @@ To the extent possible under law, [Hanlin Dong](http://www.hanlindong.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
