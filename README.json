@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "The official source code of OpenSees is available on Github! See the repository!\nThe OpenSeesPy package is available on PyPi. Install the package!",
-      "items": [],
-      "title": "Source Code"
-    },
-    {
       "description": "OpenSees plugins for existing welcomed text editors.",
       "items": [
         {
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48852337,
             "language": null,
             "last_commit": "2016-04-02T08:41:49Z",
             "owner": "Hanlin-Dong",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75780347,
             "language": null,
             "last_commit": "2016-12-18T07:10:41Z",
             "owner": "jamesmaguire",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72154049,
             "language": null,
             "last_commit": "2016-12-04T22:12:51Z",
             "owner": "jamesmaguire",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 483037337,
             "language": "Python",
             "last_commit": "2026-03-25T20:52:45Z",
             "owner": "STAIRlab",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89133971,
             "language": "Python",
             "last_commit": "2017-04-25T02:32:55Z",
             "owner": "jamesmaguire",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86023876,
             "language": "Tcl",
             "last_commit": "2021-06-19T09:12:03Z",
             "owner": "jamesmaguire",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85322436,
             "language": "MATLAB",
             "last_commit": "2019-11-19T08:26:07Z",
             "owner": "gerardjoreilly",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40206402,
             "language": "Python",
             "last_commit": "2020-11-26T18:54:16Z",
             "owner": "nassermarafi",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69698514,
             "language": "MATLAB",
             "last_commit": "2020-05-11T22:01:11Z",
             "owner": "andrewdsen",
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7807603,
             "language": "Tcl",
             "last_commit": "2013-05-01T04:49:41Z",
             "owner": "lge88",
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72590429,
             "language": "Python",
             "last_commit": "2016-11-09T21:21:34Z",
             "owner": "ucgmsim",
@@ -176,20 +182,10 @@
         }
       ],
       "title": "API"
-    },
-    {
-      "description": "If you are interested in contributing, please read the contribution guidelines. You can either contribute to the list, or contribute to the tcl codes. Your efforts are highly appreciated by the authors.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "To the extent possible under law, Hanlin Dong has waived all copyright and related or neighboring rights to awesome-opensees. This work is published from: Mainland China.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:52:39.197Z",
+    "last_updated": "2026-08-19T09:52:59.632Z",
     "original_repository": "Hanlin-Dong/awesome-opensees",
     "original_repository_sha": "ff45ebbaecbef503848eefb6810c94deaad17094",
     "enhanced_repository": "enhansome/enhansome-opensees",
