@@ -185,9 +185,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:00:54.688Z",
-    "original_repository": "Hanlin-Dong/awesome-opensees",
-    "original_repository_id": 118296720,
+    "last_updated": "2026-08-27T11:55:53.895Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 118296720,
+      "language": "Tcl",
+      "last_commit": "2024-09-28T16:30:07Z",
+      "owner": "Hanlin-Dong",
+      "repo": "awesome-opensees",
+      "stars": 120
+    },
     "original_repository_sha": "ff45ebbaecbef503848eefb6810c94deaad17094",
     "enhanced_repository": "enhansome/enhansome-opensees",
     "enhanced_repository_description": null,
