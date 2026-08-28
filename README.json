@@ -16,7 +16,8 @@
             "owner": "Hanlin-Dong",
             "repo": "OpenSEESAutoComplete",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "jamesmaguire",
             "repo": "vscode-language-opensees",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jamesmaguire",
             "repo": "language-opensees",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         }
       ],
       "title": "Editor Plugin"
@@ -67,7 +70,8 @@
             "owner": "STAIRlab",
             "repo": "veux",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "jamesmaguire",
             "repo": "opensees-model-view",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "jamesmaguire",
             "repo": "opensees-3d-visualisation",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "gerardjoreilly",
             "repo": "OpenSees-Model-Plotter-Matlab",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         }
       ],
       "title": "Visualiser"
@@ -133,7 +140,8 @@
             "owner": "nassermarafi",
             "repo": "OpenSeesAPI",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "andrewdsen",
             "repo": "OpenSeesAPI.m",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "lge88",
             "repo": "node-opensees",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         },
         {
           "node_type": "item",
@@ -178,14 +188,15 @@
             "owner": "ucgmsim",
             "repo": "OpenSees_script-generation",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:56:40.378Z"
         }
       ],
       "title": "API"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:52:57.428Z",
+    "last_updated": "2026-08-28T20:56:40.378Z",
     "original_repository_info": {
       "archived": false,
       "id": 118296720,
