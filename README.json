@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoComplete plugin to make writing OpenSEES file easier on Notepad++",
+            "homepage": null,
             "id": 48852337,
             "language": null,
+            "license": null,
             "last_commit": "2016-04-02T08:41:49Z",
+            "open_issues": 1,
             "owner": "Hanlin-Dong",
             "repo": "OpenSEESAutoComplete",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code text editor package that provides syntax highlighting and auto-completion for OpenSees tcl scripts.",
+            "homepage": null,
             "id": 75780347,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-18T07:10:41Z",
+            "open_issues": 0,
             "owner": "jamesmaguire",
             "repo": "vscode-language-opensees",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atom text editor package that provides syntax highlighting and auto-completion for OpenSees tcl scripts.",
+            "homepage": null,
             "id": 72154049,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-04T22:12:51Z",
+            "open_issues": 0,
             "owner": "jamesmaguire",
             "repo": "language-opensees",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         }
@@ -64,12 +79,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finite element visualization framework",
+            "homepage": "http://veux.io/",
             "id": 483037337,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-25T20:52:45Z",
+            "open_issues": 0,
             "owner": "STAIRlab",
             "repo": "veux",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "finite-element-analysis",
+              "opensees",
+              "openseespy",
+              "post-processing",
+              "structural-engineering",
+              "visualization",
+              "xara"
+            ]
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -80,12 +108,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some Python code that reads your opensees model's tcl files and shows you what it looks like",
+            "homepage": null,
             "id": 89133971,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-04-25T02:32:55Z",
+            "open_issues": 1,
             "owner": "jamesmaguire",
             "repo": "opensees-model-view",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "opensees"
+            ]
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -96,12 +131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python script that reads OpenSees simulation input and output files to create a 3D visualisation of your displaced model",
+            "homepage": null,
             "id": 86023876,
             "language": "Tcl",
+            "license": "MIT",
             "last_commit": "2021-06-19T09:12:03Z",
+            "open_issues": 3,
             "owner": "jamesmaguire",
             "repo": "opensees-3d-visualisation",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -112,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Matlab-based plotter for models developed in OpenSees",
+            "homepage": null,
             "id": 85322436,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2019-11-19T08:26:07Z",
+            "open_issues": 1,
             "owner": "gerardjoreilly",
             "repo": "OpenSees-Model-Plotter-Matlab",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         }
@@ -134,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python OpenSees Wrapper",
+            "homepage": null,
             "id": 40206402,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-26T18:54:16Z",
+            "open_issues": 0,
             "owner": "nassermarafi",
             "repo": "OpenSeesAPI",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -150,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSees API for MATLAB",
+            "homepage": null,
             "id": 69698514,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2020-05-11T22:01:11Z",
+            "open_issues": 0,
             "owner": "andrewdsen",
             "repo": "OpenSeesAPI.m",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -166,12 +221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js binding for OpenSees (Open System for Earthquake Engineering Simulation)",
+            "homepage": null,
             "id": 7807603,
             "language": "Tcl",
+            "license": null,
             "last_commit": "2013-05-01T04:49:41Z",
+            "open_issues": 0,
             "owner": "lge88",
             "repo": "node-opensees",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         },
@@ -182,12 +242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a template to generate the Lamb's problem with a chosen resolution.",
+            "homepage": null,
             "id": 72590429,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-11-09T21:21:34Z",
+            "open_issues": 0,
             "owner": "ucgmsim",
             "repo": "OpenSees_script-generation",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
         }
@@ -196,15 +261,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:56:40.378Z",
+    "last_updated": "2026-08-29T04:58:53.433Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of OpenSees resources",
+      "homepage": null,
       "id": 118296720,
       "language": "Tcl",
+      "license": null,
       "last_commit": "2024-09-28T16:30:07Z",
+      "open_issues": 3,
       "owner": "Hanlin-Dong",
       "repo": "awesome-opensees",
-      "stars": 120
+      "stars": 120,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "opensees"
+      ]
     },
     "original_repository_sha": "ff45ebbaecbef503848eefb6810c94deaad17094",
     "enhanced_repository": "enhansome/enhansome-opensees",
