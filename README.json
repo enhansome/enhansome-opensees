@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "jamesmaguire",
             "repo": "vscode-language-opensees",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:40.378Z"
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:33:27.751Z",
+    "last_updated": "2026-08-30T14:26:49.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenSees resources",
