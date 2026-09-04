@@ -6,7 +6,7 @@
 
 Hi, this is a curated list of OpenSees resources. You may find something awesome that gives you a better experience using or developing OpenSees. Learn more on [OpenSees official wiki website](http://opensees.berkeley.edu/wiki/index.php/Main_Page).
 
-This awesome-list project is inspired by the project [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 | 🐛 105 | 📅 2026-09-02. However, as OpenSees itself is rapidly growing, most of the related resources are not so mature. Therefore, the resources listed here may suffer from some limitations, or still under development but inspiring. The author doesn't take any responsibility for the accuracy of anything listed. You should judge whether to use them by yourself.
+This awesome-list project is inspired by the project [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,900 | 🐛 106 | 📅 2026-09-02. However, as OpenSees itself is rapidly growing, most of the related resources are not so mature. Therefore, the resources listed here may suffer from some limitations, or still under development but inspiring. The author doesn't take any responsibility for the accuracy of anything listed. You should judge whether to use them by yourself.
 
 Contributing to the list is encouraged. Please read the [contribution guidelines](contributing.md) before making pull requests. If you have problems on contributing, please click on the `PRs Welcome` badge above.
 
@@ -35,7 +35,7 @@ Contributing to the list is encouraged. Please read the [contribution guidelines
 
 ## Source Code
 
-The official source code of OpenSees is available on Github! See [the repository](https://github.com/OpenSees/OpenSees) ⭐ 809 | 🐛 59 | 🌐 C++ | 📅 2026-08-14!
+The official source code of OpenSees is available on Github! See [the repository](https://github.com/OpenSees/OpenSees) ⭐ 809 | 🐛 60 | 🌐 C++ | 📅 2026-08-14!
 
 The OpenSeesPy package is available on PyPi. Install [the package](https://pypi.org/project/openseespy/)!
 
@@ -70,7 +70,7 @@ OpenSees plugins for existing welcomed text editors.
 
 Simple scripts that help visualise OpenSees models or results.
 
-* [`sees` Python package](https://github.com/STAIRlab/sees) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2026-03-25 - A visualization framework for creating high quality and responsive renderings using glTF technology with support for both Python and Tcl. ![oss][oss] ![python][python] ![mac][mac] ![win][win]
+* [`sees` Python package](https://github.com/STAIRlab/sees) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-03-25 - A visualization framework for creating high quality and responsive renderings using glTF technology with support for both Python and Tcl. ![oss][oss] ![python][python] ![mac][mac] ![win][win]
 * [OpenSees Model View](https://github.com/jamesmaguire/opensees-model-view) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2017-04-25 - A Python package that can be used to visualise your OpenSees model as the tcl file is written. ![oss][oss] ![python][python]
 * [OpenSees 3D Visualisation](https://github.com/jamesmaguire/opensees-3d-visualisation) ⭐ 16 | 🐛 3 | 🌐 Tcl | 📅 2021-06-19 - A Python script that reads OpenSees simulation input and output files to create a 3D visualisation of your displaced model. ![oss][oss] ![python][python]
 * [OpenSees Model Plotter Matlab](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab) ⭐ 14 | 🐛 1 | 🌐 MATLAB | 📅 2019-11-19 - A Matlab-based plotter for models developed in OpenSees. ![oss][oss] ![matlab][matlab]
@@ -149,4 +149,4 @@ To the extent possible under law, [Hanlin Dong](http://www.hanlindong.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
