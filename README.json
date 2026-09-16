@@ -88,7 +88,7 @@
             "open_issues": 0,
             "owner": "STAIRlab",
             "repo": "veux",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "finite-element-analysis",
               "opensees",
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:21:57.670Z",
+    "last_updated": "2026-09-16T14:14:25.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenSees resources",
