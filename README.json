@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:33:25.467Z",
+    "last_updated": "2026-10-15T14:13:22.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenSees resources",
@@ -273,7 +273,7 @@
       "open_issues": 3,
       "owner": "Hanlin-Dong",
       "repo": "awesome-opensees",
-      "stars": 124,
+      "stars": 125,
       "topics": [
         "awesome",
         "awesome-list",
