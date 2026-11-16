@@ -84,11 +84,11 @@
             "id": 483037337,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-07T04:06:22Z",
+            "last_commit": "2026-11-16T02:10:05Z",
             "open_issues": 0,
             "owner": "STAIRlab",
             "repo": "veux",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "finite-element-analysis",
               "opensees",
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:26:44.948Z",
+    "last_updated": "2026-11-16T19:41:43.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenSees resources",
